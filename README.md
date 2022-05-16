@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align='center'>
+    
+hi — hey — hello
 
-<!--
-**unknowndeira/unknowndeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+deira#0010
 
-Here are some ideas to get you started:
+full focused / trying to find & create new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) 
+![NODE](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=node.js) 
+![CSS3](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
+![LUA](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua)   
+![profile](https://img.shields.io/badge/I%20dont%20responsible%20any%20repository%20on%20my%20profile!-black?style=for-the-badge&logo=dev&logoColor=white)
+<div>
