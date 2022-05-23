@@ -12,3 +12,4 @@ full focused / trying to find & create new things.
 ![LUA](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua)   
 ![profile](https://img.shields.io/badge/I%20dont%20responsible%20any%20repository%20on%20my%20profile!-black?style=for-the-badge&logo=dev&logoColor=white)
 <div>
+[<img alt="alt_text" width="40px" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg"/>](https://www.buymeacoffee.com/deira)
