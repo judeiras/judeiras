@@ -5,7 +5,9 @@ hi — hey — hello
 deira#0010
 
 full focused / trying to find & create new things.
-
+    
+![Discord](https://img.shields.io/badge/-deira%230010-black?style=for-the-badge&logo=discord)
+    
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) 
 ![NODE](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=node.js) 
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
