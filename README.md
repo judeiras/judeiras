@@ -1,4 +1,5 @@
 <div align='center'>
+<img src="https://cdn.discordapp.com/attachments/978556440551763978/980908365205082212/Adsz.png" alt="Buy Me A Coffee">
     
 hi — hey — hello 
 
