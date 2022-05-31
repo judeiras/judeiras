@@ -1,5 +1,9 @@
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/978556440551763978/980985027695349770/deneme.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/978556440551763978/980985027695349770/deneme.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/978556440551763978/981129648194867220/white.png">
+  <img alt="Who the fuck is unknowndeira?">
+</picture>
     
 ```full focused / trying to find & create new things.```
     
