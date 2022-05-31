@@ -1,8 +1,6 @@
 <div align='center'>
-<img src="https://cdn.discordapp.com/attachments/978556440551763978/980908365205082212/Adsz.png" alt="Buy Me A Coffee">
+<img src="https://cdn.discordapp.com/attachments/978556440551763978/980985027695349770/deneme.png">
     
-hi — hey — hello 
-
 full focused / trying to find & create new things.
     
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) 
