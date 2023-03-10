@@ -8,7 +8,7 @@
 ```full focused / trying to find & create new things.```
     
     
-    [![Discord Presence](https://lanyard.cnrad.dev/api/319759689900359683)](https://discord.com/users/319759689900359683)
+[![Discord Presence](https://lanyard.cnrad.dev/api/319759689900359683)](https://discord.com/users/319759689900359683)    
     
     
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) 
