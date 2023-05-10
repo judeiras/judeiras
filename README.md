@@ -1,5 +1,5 @@
-<!---!<div align='center'>
-<picture>
+<div align='center'>
+<!---!<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/978556440551763978/980985027695349770/deneme.png">
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/978556440551763978/981129648194867220/white.png">
   <img alt="Who the fuck is unknowndeira?">
