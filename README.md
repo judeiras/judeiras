@@ -11,9 +11,9 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/319759689900359683)](https://discord.com/users/319759689900359683)    
     
     
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) 
-![NODE](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=node.js) 
-![CSS3](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)
+<!---![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) -->
+<!---![NODE](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=node.js) -->
+<!---![CSS3](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3)-->
 ![LUA](https://img.shields.io/badge/-Lua-black?style=for-the-badge&logo=lua)
    
 
